@@ -1,5 +1,8 @@
 # Critérios de revisão do TCC no formato relatório técnico
 
+Universidade Federal da Paraíba - Departamento de Ciências Exatas
+Prof. Rodrigo Rebouças de Almeida (https://rodrigor.com)
+
 Este arquivo reúne os critérios que o professor Rodrigo Rebouças de Almeida (DCX/UFPB)
 usa na revisão dos TCCs que orienta, no formato Artigo Tecnológico ou Relatório
 Técnico. São orientações dele para os seus orientandos, e não critérios oficiais da

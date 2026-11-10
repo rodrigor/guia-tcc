@@ -11,8 +11,9 @@ descreve a estrutura do documento, o que cada seção precisa conter e os crité
 eu uso para revisar cada versão do texto. Estudantes de outros orientadores podem usar
 o material como referência, sabendo que cada orientador tem os próprios critérios.
 
-Autor: Rodrigo Rebouças de Almeida, Departamento de Ciências Exatas (DCX), Centro de
-Ciências Aplicadas e Educação, UFPB, Campus IV.
+**Universidade Federal da Paraíba - Departamento de Ciências Exatas**
+
+Prof. Rodrigo Rebouças de Almeida ([rodrigor.com](https://rodrigor.com))
 
 ## Conteúdo do repositório
 
