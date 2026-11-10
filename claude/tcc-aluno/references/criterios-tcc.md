@@ -1,8 +1,10 @@
 # Critérios de revisão do TCC no formato relatório técnico
 
-Este arquivo reúne os critérios usados na revisão dos TCCs no formato Artigo
-Tecnológico ou Relatório Técnico orientados por Rodrigo Rebouças de Almeida
-(DCX/UFPB). Ele é a fonte única dos critérios: a skill de revisão do orientador e a
+Este arquivo reúne os critérios que o professor Rodrigo Rebouças de Almeida (DCX/UFPB)
+usa na revisão dos TCCs que orienta, no formato Artigo Tecnológico ou Relatório
+Técnico. São orientações dele para os seus orientandos, e não critérios oficiais da
+disciplina de TCC, do curso ou da UFPB. Quando houver diferença, valem a resolução de
+TCC e as normas oficiais. Ele é a fonte única dos critérios: a skill de revisão do orientador e a
 skill de apoio ao estudante usam o mesmo conteúdo, e o checklist do guia em PDF o
 resume.
 

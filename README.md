@@ -1,9 +1,15 @@
 # Guia para escrever o TCC no formato relatório técnico
 
-Material de apoio para estudantes que escrevem o Trabalho de Conclusão de Curso no
-formato Artigo Tecnológico ou Relatório Técnico, previsto na resolução de TCC. Ele
+> **Orientações do professor Rodrigo Rebouças de Almeida para os seus orientandos.**
+> Este material não é documento oficial da disciplina de TCC, do curso nem da UFPB.
+> Quando houver diferença entre ele e a resolução de TCC, as normas do curso ou as
+> orientações da coordenação da disciplina, valem as normas oficiais.
+
+Material de apoio para os estudantes que eu oriento no Trabalho de Conclusão de Curso
+no formato Artigo Tecnológico ou Relatório Técnico, previsto na resolução de TCC. Ele
 descreve a estrutura do documento, o que cada seção precisa conter e os critérios que
-o orientador usa para revisar cada versão do texto.
+eu uso para revisar cada versão do texto. Estudantes de outros orientadores podem usar
+o material como referência, sabendo que cada orientador tem os próprios critérios.
 
 Autor: Rodrigo Rebouças de Almeida, Departamento de Ciências Exatas (DCX), Centro de
 Ciências Aplicadas e Educação, UFPB, Campus IV.
@@ -28,7 +34,7 @@ de ferramentas de IA, inclusive deste material.
 
 O assistente ajuda em quatro situações: planejar objetivos e metodologia, revisar uma
 seção, conferir o texto completo antes de entregar e conferir referências. Ele usa os
-mesmos critérios da revisão do orientador.
+mesmos critérios que eu uso na revisão.
 
 Ele não escreve o TCC por você. Não redige seções, não gera dados nem resultados e não
 inventa referências. Também não substitui a avaliação do orientador. O uso do

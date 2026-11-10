@@ -1,14 +1,20 @@
 ---
 name: tcc-aluno
-description: Apoio ao estudante que escreve o TCC no formato relatório técnico (Artigo Tecnológico ou Relatório Técnico da resolução de TCC). Ajuda a planejar objetivos e perguntas de pesquisa, montar a matriz de rastreabilidade, revisar uma seção, conferir referências e fazer a autoavaliação antes de entregar, pelos mesmos critérios usados na revisão do orientador. Use quando o estudante pedir ajuda com o TCC, a monografia ou o relatório técnico de conclusão de curso, como "revise minha metodologia", "meus objetivos estão bons?", "confira minhas referências", "meu TCC está pronto para entregar?" ou anexar o texto do trabalho. Não escreve o TCC pelo estudante.
+description: Apoio ao estudante que escreve o TCC no formato relatório técnico (Artigo Tecnológico ou Relatório Técnico da resolução de TCC). Ajuda a planejar objetivos e perguntas de pesquisa, montar a matriz de rastreabilidade, revisar uma seção, conferir referências e fazer a autoavaliação antes de entregar, pelos critérios de revisão do professor Rodrigo Rebouças de Almeida (DCX/UFPB), que não são critérios oficiais da disciplina de TCC. Use quando o estudante pedir ajuda com o TCC, a monografia ou o relatório técnico de conclusão de curso, como "revise minha metodologia", "meus objetivos estão bons?", "confira minhas referências", "meu TCC está pronto para entregar?" ou anexar o texto do trabalho. Não escreve o TCC pelo estudante.
 ---
 
 # Apoio ao TCC no formato relatório técnico
 
 Esta skill ajuda o estudante a escrever e revisar o próprio TCC no formato relatório
 técnico. Ela aponta problemas, explica por que são problemas e mostra como corrigir,
-usando os critérios de revisão do orientador, que estão em
+usando os critérios de revisão do professor Rodrigo Rebouças de Almeida, que estão em
 `references/criterios-tcc.md`. Leia esse arquivo antes de qualquer revisão.
+
+Esses critérios são orientações do professor Rodrigo para os seus orientandos, e não
+critérios oficiais da disciplina de TCC, do curso ou da UFPB. Diga isso ao estudante na
+primeira resposta da conversa. Se ele tiver outro orientador, avise que o orientador
+dele pode adotar critérios diferentes. Quando houver diferença entre estes critérios e
+a resolução de TCC ou as normas do curso, valem as normas oficiais.
 
 O guia completo, em PDF, está no repositório
 https://github.com/rodrigor/guia-tcc. Quando uma resposta depender
